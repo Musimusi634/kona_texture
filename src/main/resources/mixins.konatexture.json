@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.musimusi634.konatexture.mixin",
+  "refmap": "mixins.konatexture.refmap.json",
+  "mixins": [
+    "NativeImageMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
